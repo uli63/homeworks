@@ -15,9 +15,6 @@ function solveEquation(a, b, c) {
 
     arr.push(x);
   
-  } else if (d < 0) {
-
-    arr = [];
   };
   
   return arr; // array

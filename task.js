@@ -1,7 +1,7 @@
 'use strict'
 
 function solveEquation(a, b, c) {
-  let arr;
+  let arr = [];
   let d = (b * b) - (4 * a * c);
 
   if (d > 0) {
